@@ -696,63 +696,6 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
---- !u!1001 &210519433
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -9099783781238306995, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_Name
-      value: Halloween Island
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: -2695619058785784247, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
 --- !u!1 &230634710
 GameObject:
   m_ObjectHideFlags: 0
@@ -934,6 +877,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1389679935}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &705111431
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -9099783781238306995, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_Name
+      value: Halloween Island
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -115.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 101
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270559760863261351, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: -2695619058785784247, guid: 718fe85e76eb29b46a2d09e590dcd234, type: 3}
 --- !u!1 &710408076
 GameObject:
   m_ObjectHideFlags: 0
@@ -2084,7 +2084,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1535466208}
   m_HandleRect: {fileID: 1535466207}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -2759,4 +2759,4 @@ SceneRoots:
   - {fileID: 8312345619991101124}
   - {fileID: 1403598906281040002}
   - {fileID: 1443022476}
-  - {fileID: 210519433}
+  - {fileID: 705111431}
